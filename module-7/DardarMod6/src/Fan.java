@@ -1,5 +1,3 @@
-package com.example.dardarmod6;
-
 public class Fan {
 
     public static final int STOPPED = 0;

@@ -1,5 +1,3 @@
-package com.example.dardarmod6;
-
 public class TestFan {
 
     public static void main(String[] args) {
